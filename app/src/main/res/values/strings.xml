@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WashHeadPad</string>
+    <string name="guid_title">新手引导</string>
+    <string name="main_unlogin">请登录您的帐号\n更多精彩等您体验</string>
+    <string name="main_login">登录／注册</string>
+    <string name="main_user_online">用户在线</string>
+    <string name="main_logout">退出登录</string>
+    <string name="drawer_set">设置</string>
+    <string name="drawer_wash">智慧洗护</string>
+    <string name="drawer_community">交互社区</string>
+    <string name="drawer_question">常见问题</string>
+</resources>

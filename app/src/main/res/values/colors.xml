@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="glassgreen">#a3ea63</color>
+    <color name="bg_grey">#bdd1da</color>
+    <color name="bg_green">#27c686</color>
+    <color name="bg_gray">#cbcdcd</color>
+
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="teal">#00796B</color>
+    <color name="brown">#8D6E63</color>
+    <color name="blue">#2196F3</color>
+    <color name="grey">#607D8B</color>
+    <color name="orange">#F57C00</color>
+    <color name="algray">#77ffffff</color>
+    <color name="black">#000000</color>
+    <color name="green">#05adaf</color>
+    <color name="yellow">#fec534</color>
+    <color name="res">#d33935</color>
+
+    <color name="btnClickColor">#aaa</color>
+    <color name="btnNormalColor">#fff</color>
+    <color name="btnNormal0Color">#92cdf4</color>
+    <color name="bc_white">#fff</color>
+
+
+    <color name="white_with_alpha">#bfffffff</color>
+
+
+    <color name="colorFreshGreen">#19FF00</color>
+</resources>
